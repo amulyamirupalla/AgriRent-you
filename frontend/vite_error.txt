@@ -1,0 +1,26 @@
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32m✓[39m 105 modules transformed.
+
+[31m✗[39m Build failed in 449ms
+[31merror during build:
+[31msrc/pages/Cart.jsx (4:9): "addBooking" is not exported by "src/api/api.js", imported by "src/pages/Cart.jsx".[31m
+file: [36mC:/AGRIRENT(org)/frontend/src/pages/Cart.jsx:4:9[31m
+[33m
+2: import { useNavigate, Link } from 'react-router-dom'
+3: import { useCart } from '../context/CartContext'
+4: import { addBooking } from '../api/api'
+            ^
+5: 
+6: export default function Cart() {
+[31m
+    at getRollupError (file:///C:/AGRIRENT(org)/frontend/node_modules/rollup/dist/es/shared/parseAst.js:402:41)
+    at error (file:///C:/AGRIRENT(org)/frontend/node_modules/rollup/dist/es/shared/parseAst.js:398:42)
+    at Module.error (file:///C:/AGRIRENT(org)/frontend/node_modules/rollup/dist/es/shared/node-entry.js:17040:16)
+    at Module.traceVariable (file:///C:/AGRIRENT(org)/frontend/node_modules/rollup/dist/es/shared/node-entry.js:17452:29)
+    at ModuleScope.findVariable (file:///C:/AGRIRENT(org)/frontend/node_modules/rollup/dist/es/shared/node-entry.js:15070:39)
+    at FunctionScope.findVariable (file:///C:/AGRIRENT(org)/frontend/node_modules/rollup/dist/es/shared/node-entry.js:5673:38)
+    at FunctionBodyScope.findVariable (file:///C:/AGRIRENT(org)/frontend/node_modules/rollup/dist/es/shared/node-entry.js:5673:38)
+    at ReturnValueScope.findVariable (file:///C:/AGRIRENT(org)/frontend/node_modules/rollup/dist/es/shared/node-entry.js:5673:38)
+    at FunctionBodyScope.findVariable (file:///C:/AGRIRENT(org)/frontend/node_modules/rollup/dist/es/shared/node-entry.js:5673:38)
+    at BlockScope.findVariable (file:///C:/AGRIRENT(org)/frontend/node_modules/rollup/dist/es/shared/node-entry.js:5673:38)[39m

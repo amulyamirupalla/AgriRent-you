@@ -1,0 +1,7 @@
+const dns = require('dns')
+dns.setServers(['8.8.8.8', '8.8.4.4'])
+require('dotenv').config()
+const mongoose = require('mongoose')
+mongoose.connect(process.env.MONGO_URI)
+  .then(() => { console.log('✅ MongoDB Atlas connected!'); process.exit(0) })
+  .catch(e => { console.log('❌ Error:', e.message); process.exit(1) })

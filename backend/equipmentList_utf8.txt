@@ -1,0 +1,76 @@
+﻿[dotenv@17.3.1] injecting env (6) from .env -- tip: ΓÜÖ∩╕Å  override existing env vars with { override: true }
+Connected to MongoDB.
+
+Found 14 equipment items:
+
+======================================================================
+1. Name: Heavy Duty Cultivator
+   ID: 69b4551ff9af21fe48a27388
+   Owner Name: Rajesh Kumar
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+2. Name: Disc Plough
+   ID: 69b4551ff9af21fe48a27389
+   Owner Name: Vijay Pratap
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+3. Name: Seed Drill Machine
+   ID: 69b4551ff9af21fe48a2738a
+   Owner Name: Ramesh Chen
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+4. Name: Mini Rice Transplanter
+   ID: 69b4551ff9af21fe48a2738b
+   Owner Name: Anjali Devi
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+5. Name: Solar Water Pump
+   ID: 69b4551ff9af21fe48a2738c
+   Owner Name: Kishore Reddy
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+6. Name: Drip Irrigation Kit Set
+   ID: 69b4551ff9af21fe48a2738d
+   Owner Name: Pooja Sharma
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+7. Name: Power Sprayer Drone
+   ID: 69b4551ff9af21fe48a2738e
+   Owner Name: Vikram Reddy
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+8. Name: Knapsack Sprayer
+   ID: 69b4551ff9af21fe48a2738f
+   Owner Name: Santosh Yadav
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+9. Name: Rotary Weeder
+   ID: 69b4551ff9af21fe48a27390
+   Owner Name: Sunil Gavaskar
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+10. Name: John Deere Harvester
+   ID: 69b4551ff9af21fe48a27391
+   Owner Name: Amit Singh
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+11. Name: Kubota Paddy Thresher
+   ID: 69b4551ff9af21fe48a27392
+   Owner Name: Gurnam Singh
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+12. Name: Maize Sheller Machine
+   ID: 69b4551ff9af21fe48a27393
+   Owner Name: Rahul Desai
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+13. Name: Chaff Cutter Machine
+   ID: 69b4551ff9af21fe48a27394
+   Owner Name: Sita Ram
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
+14. Name: Mahindra Tractor Trailer
+   ID: 69b4551ff9af21fe48a27395
+   Owner Name: Mohan Lal
+   Linked Email: None (Orphaned / Uses Fallback)
+----------------------------------------------------------------------
